@@ -1,0 +1,29 @@
+.story_bar{
+    height: 60px;
+    background-color: white;
+    margin: 10px;
+    padding: 5px;
+    padding-top: 3px;
+    border: 1px solid grey;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+  }
+
+.story_avatar{
+    width: 55px;
+    height: 100%;
+    /* border: 10px solid black; */
+    border: 1px solid orangered;
+    border-radius: 24px;
+    align-items: center;
+    background-color: whitesmoke;
+    margin: 10px;
+   
+  }
+  .story_avatar img{
+   overflow: hidden;
+   max-width: 100%;
+   max-height: 100%;
+  
+  }

@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.modalContent{
+  align-items: center;
+background-color: white;
+}
+
+
+.login{
+        height: max-content;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        margin: 10px;
+        border: 2px solid lightgrey;
+        background-color: #fafafa;
+       align-items: center;
+}
+.formy{
+width:max-content;
+display: flex;
+flex-direction: column;
+justify-content: baseline;
+align-items: center;
+}
+form input{
+    margin: 10px;
+    padding: 10px;
+}
+.logInContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: 2px solid black;
+    vertical-align: middle;
+}

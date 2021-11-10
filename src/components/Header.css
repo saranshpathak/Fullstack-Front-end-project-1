@@ -1,0 +1,9 @@
+.header{
+    background-color: white;
+    width: 100%;
+    align-items: center;
+  }
+  .header img{
+    object-fit: contain;
+    height:60px;
+  }
